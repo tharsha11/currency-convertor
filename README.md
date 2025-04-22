@@ -11,9 +11,24 @@ This may be a lengthy code. This is my first project in my engineering so this i
 run the convertor.java file in any platform.
 A web page will be opened where we can convert some types of currencies into another types.
 
+
+# Screenshots of Output
+
 ![image](https://github.com/user-attachments/assets/c0e867bd-6828-4a07-9e0a-d142bc209367)
+
+
+
+
 ![image](https://github.com/user-attachments/assets/26669b5f-a1e7-4078-9403-7eb6cb325def)
+
+
+
+
 ![image](https://github.com/user-attachments/assets/d0514ac7-d053-4e67-9a47-c87c6cf452b2)
+
+
+
+
 ![image](https://github.com/user-attachments/assets/ce3b6af1-5b61-4b58-b4f9-b8c7ce64a8b6)
 
 
